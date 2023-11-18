@@ -1,7 +1,7 @@
 # Portfólio 
 <div align=center>
-  <img src="https://i.imgur.com/kEh4Dqy.png" width=200 alt="" />
-  <h2>Rita de cassia Ferreira</h2>
+  <img src="https://github.com/cassia2023/Projeto/assets/151237166/5b335514-3b96-4703-8c43-4255426ec089" width=200 alt="" />
+  <h2>Sandro Araujo</h2>
     </div>
 
   ## Formação Acadêmica:
