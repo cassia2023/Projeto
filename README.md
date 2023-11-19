@@ -18,12 +18,12 @@
    <h2>Meus Projetos</h2>
     </div>
 
-1) [1º Projeto - Plataforma e-commerce.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto1) - 2020;
-2) [2º Projeto Unificação e Tratamento de Dados](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto2)-2021;
-3) [3º Projeto Gestão de Relacionamento com Clientes](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto3)-2021;
-4) [4º Projeto Aplicativo para Auxiliar Produtores Rurais.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto4)-2022;
-5) [5º Projeto Coleta de dados Público](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto5)-2022;
-6) [6º Projeto de Comparação e Análise de Tarifas Bancárias](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2023;
+1) [1º Projeto - Safehouse.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto1) - 2019-2;
+2) [2º Projeto VisualData.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto2)-2020-1;
+3) [3º Projeto ShapeGIS.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto3)-2020-2;
+4) [4º Projeto SISATAS.](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto4)-2021-1;
+5) [5º Projeto BureAuto](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto5)-2021-2;
+6) [6º Projeto BTAlert](https://github.com/Ritas2022/Portfolio/tree/main/Referencia/Projeto6)-2022-1;
   </div>
 
   ## Meus Principais Conhecimentos
